@@ -1,0 +1,13 @@
+{
+	"extensions":
+	[
+		"rb",
+		"thor",
+		"rabl",
+		"simplecov",
+		"podspec",
+		"rake",
+		"jbuilder"
+	],
+	"draw_white_space": "all"
+}
