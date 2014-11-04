@@ -4,6 +4,11 @@
 		"ApplySyntax",
 		"Git",
 		"Git Config",
-		"GitGutter"
+		"GitGutter",
+		"Package Control",
+		"Predawn",
+		"Theme - Afterglow",
+		"Theme - Soda",
+		"WordCount"
 	]
 }
