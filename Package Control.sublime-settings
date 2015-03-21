@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"ApplySyntax",
+		"ChangeQuotes",
 		"Git",
 		"Git Config",
 		"GitGutter",
@@ -13,6 +14,7 @@
 		"Predawn",
 		"Theme - Afterglow",
 		"Theme - Soda",
+		"Theme - Toxin",
 		"WordCount"
 	]
 }

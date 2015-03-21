@@ -1,9 +1,11 @@
 {
+	"always_show_minimap_viewport": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"color_scheme": "Packages/Theme - Toxin/Toxin.tmTheme",
 	"draw_minimap_border": true,
 	"font_size": 12,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -17,7 +19,8 @@
 	],
 	"soda_classic_tabs": true,
 	"tabs_small": true,
-	"theme": "Afterglow.sublime-theme",
+	"theme": "Toxin.sublime-theme",
+	"use_minimap_as_scrollbar": true,
 	"word_wrap": true,
 	"wrap_width": 80
 }
