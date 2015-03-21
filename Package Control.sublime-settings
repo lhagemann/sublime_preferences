@@ -1,10 +1,15 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"ApplySyntax",
 		"Git",
 		"Git Config",
 		"GitGutter",
+		"Markdown Preview",
+		"Package Control",
 		"Predawn",
 		"Theme - Afterglow",
 		"Theme - Soda",
