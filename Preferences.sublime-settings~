@@ -1,7 +1,11 @@
 {
 	"always_show_minimap_viewport": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+<<<<<<< HEAD
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+=======
+	"color_scheme": "Packages/Theme - Toxin/Toxin.tmTheme",
+>>>>>>> a72c396f3abed8c973289b0afaba7119da75223a
 	"draw_minimap_border": true,
 	"font_size": 12,
 	"highlight_line": true,
@@ -18,10 +22,13 @@
 		80
 	],
 	"soda_classic_tabs": true,
-	"tab_size": 2,
 	"tabs_small": true,
+<<<<<<< HEAD
+	"theme": "Afterglow.sublime-theme",
+=======
 	"theme": "Toxin.sublime-theme",
 	"use_minimap_as_scrollbar": true,
+>>>>>>> a72c396f3abed8c973289b0afaba7119da75223a
 	"word_wrap": true,
 	"wrap_width": 80
 }

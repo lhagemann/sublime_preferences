@@ -1,13 +1,15 @@
 {
+	"draw_white_space": "all",
 	"extensions":
 	[
+		"rabl",
 		"rb",
 		"thor",
-		"rabl",
-		"simplecov",
-		"podspec",
+		"jbuilder",
 		"rake",
-		"jbuilder"
+		"simplecov",
+		"podspec"
 	],
-	"draw_white_space": "all"
+	"tab_width": 2,
+	"translate_tabs_to_spaces": true
 }

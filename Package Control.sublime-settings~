@@ -6,19 +6,21 @@
 	[
 		"ApplySyntax",
 		"ChangeQuotes",
-		"Clickable URLs",
-		"Evernote",
 		"Git",
 		"Git Config",
 		"GitGutter",
+<<<<<<< HEAD
+=======
 		"Markdown Preview",
+>>>>>>> a72c396f3abed8c973289b0afaba7119da75223a
 		"Package Control",
-		"Pretty JSON",
-		"RuboCop",
-		"Slack",
+		"Predawn",
 		"Theme - Afterglow",
 		"Theme - Soda",
+<<<<<<< HEAD
+=======
 		"Theme - Toxin",
+>>>>>>> a72c396f3abed8c973289b0afaba7119da75223a
 		"WordCount"
 	]
 }
