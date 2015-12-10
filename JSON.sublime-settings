@@ -1,8 +1,10 @@
 {
 	"extensions":
 	[
-		".csslintrc",
+		".jscsrc",
+		".bowerrc",
+		".eslintrc",
 		".jshintrc",
-		".jscsrc"
+		".csslintrc"
 	]
 }
