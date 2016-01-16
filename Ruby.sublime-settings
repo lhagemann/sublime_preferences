@@ -2,12 +2,12 @@
 	"draw_white_space": "all",
 	"extensions":
 	[
-		"rabl",
-		"rb",
 		"thor",
-		"jbuilder",
-		"rake",
 		"simplecov",
+		"jbuilder",
+		"rb",
+		"rake",
+		"rabl",
 		"podspec"
 	],
 	"tab_width": 2,

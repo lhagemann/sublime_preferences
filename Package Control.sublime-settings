@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -11,6 +12,7 @@
 		"Git",
 		"Git Config",
 		"GitGutter",
+		"GitGutter-Edge",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
