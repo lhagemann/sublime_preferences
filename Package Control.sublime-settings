@@ -18,9 +18,11 @@
 		"Pretty JSON",
 		"RuboCop",
 		"Slack",
+		"Terraform",
 		"Theme - Afterglow",
 		"Theme - Soda",
 		"Theme - Toxin",
+		"TodoReview",
 		"WordCount"
 	]
 }
