@@ -1,3 +1,6 @@
 Package Control.cache/
 Package Control.last-run
 Package Control.*bundle
+
+# settings files that we don't want to commit after all
+Slack.sublime-settings

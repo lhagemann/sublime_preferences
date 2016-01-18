@@ -4,11 +4,11 @@
 	[
 		"simplecov",
 		"jbuilder",
-		"rabl",
+		"podspec",
 		"rake",
-		"thor",
 		"rb",
-		"podspec"
+		"rabl",
+		"thor"
 	],
 	"tab_width": 2,
 	"translate_tabs_to_spaces": true
