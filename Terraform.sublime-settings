@@ -3,5 +3,6 @@
 	[
 		"tf",
 		"tfvars"
-	]
+	],
+	"tab_width": 2
 }
