@@ -2,13 +2,13 @@
 	"draw_white_space": "all",
 	"extensions":
 	[
-		"simplecov",
-		"jbuilder",
-		"podspec",
+		"thor",
 		"rake",
+		"jbuilder",
 		"rb",
+		"podspec",
 		"rabl",
-		"thor"
+		"simplecov"
 	],
 	"tab_width": 2,
 	"translate_tabs_to_spaces": true

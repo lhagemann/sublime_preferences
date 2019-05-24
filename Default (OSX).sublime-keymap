@@ -5,5 +5,7 @@
             "by": "characters", 
             "forward": true
         }    
-	}
+	},
+	
+	{ "keys": ["ctrl+shift+'"], "command": "change_quotes" }
 ]

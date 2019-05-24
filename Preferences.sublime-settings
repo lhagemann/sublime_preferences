@@ -1,15 +1,50 @@
 {
+	"added_words":
+	[
+		"Terraform",
+		"Polychronic",
+		"Monochronic",
+		"Subnets",
+		"subnets",
+		"subnet",
+		"terraform",
+		"workspaces",
+		"datasources",
+		"Dyn",
+		"Makefile",
+		"Hashicorp",
+		"Hivecast",
+		"dyndns",
+		"github",
+		"vnic",
+		"hostname",
+		"Ansible",
+		"ansible",
+		"hivecast",
+		"dyn",
+		"Hagemann",
+		"itsjustcode",
+		"http"
+	],
 	"always_show_minimap_viewport": true,
 	"caret_style": "wide",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"dictionary": "Packages/User/Dictionaries/English (American).dic",
 	"draw_minimap_border": true,
-	"font_size": 12,
+	"font_face": "Hack",
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"GitGutter-Edge",
 		"Vintage"
+	],
+	"ignored_words":
+	[
+		"cidrsubnet",
+		"iprange",
+		"netnum",
+		"newbits"
 	],
 	"indent_to_bracket": false,
 	"line_padding_bottom": 2,
